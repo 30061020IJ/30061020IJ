@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi im Iestyn Jones, im 19, born in wales and I am a student studying for a bachelor's degree in computer science in the university of south wales, I enjoy going out with my friends, going to the gym and playing sports whenever i am able. 👋
 
 <!--
 **30061020IJ/30061020IJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
